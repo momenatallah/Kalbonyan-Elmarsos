@@ -4,4 +4,4 @@
 
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/learning-github)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/500209f5ec65411ae7dbd16b35dad1ae71c5132c3e84a1c54e236266f17734b0)

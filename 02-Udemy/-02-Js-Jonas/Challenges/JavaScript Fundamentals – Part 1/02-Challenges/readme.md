@@ -1,1 +1,1 @@
-# Build Responsive Real-World Websites with HTML and CSS
+JavaScript Fundamentals - Part 1 - Challenge 2
